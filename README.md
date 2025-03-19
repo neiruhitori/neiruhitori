@@ -8,12 +8,14 @@
 
 ---
 
-## 📫 Connect with me:  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/nai201_02)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/neiruhitori)  
-[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@naesoxee)  
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/nailulnq)    
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nailulmaksudi@gmail.com)  
+## 📫 Connect with me:
+<div align="right">
+  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/nai201_02)  
+  [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/neiruhitori)  
+  [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@naesoxee)  
+  [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/nailulnq)    
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nailulmaksudi@gmail.com) 
+</div>
 
 ---
 
