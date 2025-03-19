@@ -24,7 +24,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nama_pengguna_github&theme=radical" />
     </td>
   </tr>
 </table>
