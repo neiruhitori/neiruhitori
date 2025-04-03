@@ -17,6 +17,19 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=neiruhitori&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=neiruhitori&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+// Core snake movement logic
+function moveSnake() {
+  const head = {x: snake[0].x + dx, y: snake[0].y + dy};
+  snake.unshift(head);
+  
+  if (head.x === food.x && head.y === food.y) {
+    score += 10;
+    createFood();
+  } else {
+    snake.pop();
+  }
+}
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=neiruhitori&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
