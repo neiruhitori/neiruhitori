@@ -1,34 +1,30 @@
-name: Generate GitHub Snake
-
+name: Generate Snake
 on:
   schedule:
-    - cron: "0 0 * * *"  # Update setiap hari pukul 00:00 UTC
-  workflow_dispatch:     # Memungkinkan trigger manual
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
-    branches:
-      - main             # Trigger saat push ke branch main
+    branches: [ "main" ]
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: "neiruhitori"  # Ganti dengan username GitHub Anda
+          github_user_name: "neiruhitori"
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            github-snake.svg
+            github-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Deploy to GitHub Pages
+      - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: gh-pages  # Branch untuk menyimpan output
-          commit_message: "Update snake animation"
+          publish_branch: gh-pages
+          commit_message: "Update snake"

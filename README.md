@@ -17,7 +17,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=neiruhitori&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=neiruhitori&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Snake animation](https://raw.githubusercontent.com/neiruhitori/neiruhitori/gh-pages/github-snake-dark.svg)
+![Snake Animation](https://raw.githubusercontent.com/neiruhitori/neiruhitori/gh-pages/github-snake.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=neiruhitori&theme=radical&no-frame=false&no-bg=true&margin-w=4)
