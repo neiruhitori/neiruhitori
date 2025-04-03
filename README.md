@@ -17,8 +17,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=neiruhitori&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=neiruhitori&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Snake Animation](https://raw.githubusercontent.com/neiruhitori/neiruhitori/output/github-contribution-grid-snake.svg)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
