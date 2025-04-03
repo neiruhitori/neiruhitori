@@ -1,4 +1,15 @@
+<a href="https://top.gg/bot/623481583411658753"><img src="https://i.imgur.com/z1oWSiy.png" width="100%" height="auto"/></a>
 # 💫 About Me:
+<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
+<details>
+  <summary>More about me</summary>
+
+- 🔭 I’m currently on a journey to build **great** things
+- 🌱 I’m currently learning **everything** 🤓
+- 🤝 I’m looking for help with **finding projects to contribute to!**
+- 💬 Ask me about **open source, web development, and community management**
+
+</details>
 ### 💻 Backend Developer | 🌍 Open Source Contributor  
 
 🔹 Passionate about **Laravel & API Development**  
